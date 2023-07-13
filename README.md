@@ -5,7 +5,7 @@ README by Recursion Pharma on the data: https://github.com/recursionpharma/rxrx-
 
 Install anaconda (https://docs.anaconda.com/anaconda/install/index.html)
 
-Clone the repository: git clone git@github.com:theislab/batch_correction_cellpainting.git
+Clone the repository: 
 
 Go to the repository
 
